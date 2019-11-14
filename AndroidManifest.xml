@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cisma.autism">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Autism"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Start.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".Paint.MainActivity_P"/>
+        <activity android:name=".Quiz.MainActivity_Q"/>
+        <activity android:name=".Quiz.Questionlib"/>
+        <activity android:name=".Quiz.Quit"/>
+        <activity android:name=".Start.Register"/>
+        <activity android:name=".Album.Imagelistact"/>
+        <activity android:name=".Album.MainActivity_A"/>
+        <activity android:name=".Games.MainActivity_G"/>
+        <activity android:name=".Games.helicopter.Helicopter_Fly"/>
+        <activity android:name=".Games.catch_ball.Catchball_Main" />
+        <activity android:name=".Games.catch_ball.Catchball_Result"/>
+        <activity android:name=".Games.catch_ball.Catchball_Start"/>
+
+        <activity android:name=".Start.Login"/>
+        <activity android:name=".Speech.MainActivity_S"/>
+        <activity android:name=".Picturetalk.Animal_Sound"/>
+        <activity android:name=".Picturetalk.Animals"/>
+        <activity android:name=".Picturetalk.Emoticons"/>
+        <activity android:name=".Picturetalk.Food"/>
+        <activity android:name=".Picturetalk.Picture_Talk"/>
+        <activity android:name=".Picturetalk.Vehicles"/>
+        
+        <activity android:name=".Chat.ChatActivity"/>
+        <activity android:name=".Chat.ChatConversationActivity"/>
+        <activity android:name=".Chat.EnlargeImageView"/>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </application>
+
+</manifest>

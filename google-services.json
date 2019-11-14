@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "929150695948",
+    "firebase_url": "https://autism-c5365.firebaseio.com",
+    "project_id": "autism-c5365",
+    "storage_bucket": "autism-c5365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929150695948:android:508734fc167f154b",
+        "android_client_info": {
+          "package_name": "com.example.cisma.autism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929150695948-42l3bjds1gsb4nkbqgatohp8bqnasg5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cisma.autism",
+            "certificate_hash": "a294558a3cb890ebc0742e79476b165ad31f8a68"
+          }
+        },
+        {
+          "client_id": "929150695948-46joiiol4ub34djma8at4s9ecvevpeai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA01l4BuSwooEclfcrkDlKT1iwYSfXKGNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929150695948-46joiiol4ub34djma8at4s9ecvevpeai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
